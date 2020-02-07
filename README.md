@@ -7,7 +7,7 @@ OpenCV was built to provide a common infrastructure for computer vision applicat
 ### ->capture video.
 
 
-### ->haarcascade files will be downloaded in  "cv2/data"  folder, when install OpenCV
-1.Open cmd prompt,      type>> pip install opencv-python
-2.Open anaconda prompt, type>> conda install -c conda-forge opencv
+## haarcascade files will be downloaded in  "cv2/data"  folder, when install OpenCV
+1.Open cmd prompt,      type>> pip install opencv-python                                                                 
+2.Open anaconda prompt, type>> conda install -c conda-forge opencv                                                          
 if any problem in anaconda prompt, run it as administrator. 
